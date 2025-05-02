@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Vitória Sesana"
+  navbar:
+    background: "#AD96DC"
+    foreground: "white"   
+    right:
+      - text: Sobre
+        href: abas/about.qmd
+      - text: Publicações
+        href: abas/posts/index.qmd
+  page-footer: 
+    # background: "#AD96DC"
+    # foreground: "white" 
+    left: "© 2024 VITÓRIA SESANA, TODOS OS DIREITOS RESERVADOS" 
+    right: 
+      - icon: github
+        href: https://github.com/vitoria-sesana
+      - icon: linkedin
+        href: https://www.linkedin.com/in/vit%C3%B3ria-sesana-836035174/
+      - text: Lattes
+        href: http://lattes.cnpq.br/0581379603381022
+        # colocar tbm link do repositorio do website
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

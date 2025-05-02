@@ -1,0 +1,34 @@
+Posts
+	Mini manual de orientações iniciais ao usar o R 
+	como utilizar o SAS gratuito de estudante
+	principais dados governamentais disponibilizados e como usa-los no R
+	O Planejamento Amostral da PNADc
+	Como podemos fazer uma análise espacial
+	Entendendo o curso de estatística com base na grade curricular da UFES
+	Antigos projetos
+		Cálculo do IDF
+		Boletim Anual
+		Pibic
+
+Posts backlogin
+	Trabalhos academicos antigos
+	Competições do kaggle
+	Artigos interessantes
+	Teorias interessantes
+
+		
+Categorização dos posts
+	iniciante, intermediário ou avançado 
+	teoria, aplicação ou discussão 
+		
+Paines/dashboards
+	Calculo IDF
+	Seminário
+
+Sobre mim
+	Linha do tempo das trajetórias acadêmicas e profissionais
+		Constat, SETADES, PIBIC, Labcidades, Rladies, Rbras, Mental PRO, Observatorio de Capixaba Economia Criativa  
+	Principais interesses (Gestão publica, analise espacial)
+	Pessoal
+		Cineclubista 2016, fã de jogos, fotografia
+	 
