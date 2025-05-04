@@ -2,23 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "\nLorem Ipsum\n",
+    "title": "\nSeja bem-vindo!\n",
     "section": "",
-    "text": "Lorem Ipsum\n\n Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit…"
-  },
-  {
-    "objectID": "aba_posts/index.html",
-    "href": "aba_posts/index.html",
-    "title": "Publicações",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet. Aut culpa voluptatem qui recusandae nihil qui assumenda omnis. Et blanditiis neque et blanditiis labore qui velit voluptas sed dicta itaque ex temporibus aliquid ut ipsam voluptas. Ut quia deleniti a aperiam dolorem vel quae perferendis est eaque labore.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSingle-Cell RNA Sequencing Reveals Novel Cellular States During Wound Healing\n\n\n\nresearch\n\n\nconferences\n\n\n\nOur lab used single-cell RNA sequencing (scRNA-seq) to study wound healing, analyzing 50,000 cells across multiple time points. This revealed novel cellular states and…\n\n\n\nVitória Sesana\n\n\n1/11/25\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Seja bem-vindo!\n\n Sou estudante de Estatística na UFES. Este é meu blog pessoal que usarei para discutir tópicos teóricos e práticos da área de estatísticas, ferramentas computacionais."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Vitória Sesana",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "text": "Atualmente estou no meu penúltimo período da graduação em Estatística pela UFES. Além disso, estágio na startup de saúde mental Mental PRO e tenho vínculo voluntário com os projetos R-Ladies Vix e participo da organização da 69ª edição do RBras e Seagro. Recentemente, me tornei membro do Observatório Capixaba de Economia Criativa."
   },
   {
     "objectID": "about.html#education",
@@ -46,14 +39,14 @@
     "href": "about.html#educação",
     "title": "Vitória Sesana",
     "section": "Educação",
-    "text": "Educação"
+    "text": "Educação\nBacharel em Estatítisca Universidade Federal do Espírito Santo 2020-Atualmente\nTécnico Integrado ao Ensino Médio em Lógistica Instituto Federal do Espírito Santo 2016-2018"
   },
   {
     "objectID": "about.html#experiências",
     "href": "about.html#experiências",
     "title": "Vitória Sesana",
     "section": "Experiências",
-    "text": "Experiências"
+    "text": "Experiências\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   },
   {
     "objectID": "about.html#interesses",
@@ -67,14 +60,14 @@
     "href": "about.html#ferramentas",
     "title": "Vitória Sesana",
     "section": "Ferramentas",
-    "text": "Ferramentas"
+    "text": "Ferramentas\nR Python Google Workspace SQL GIT Power BI"
   },
   {
     "objectID": "about.html#áreas-de-interesse",
     "href": "about.html#áreas-de-interesse",
     "title": "Vitória Sesana",
     "section": "Áreas de interesse",
-    "text": "Áreas de interesse"
+    "text": "Áreas de interesse\nGestão Pública Inovação Economia Criativa Assistência Social\nModelagem Amostragem Estatística Espacial"
   },
   {
     "objectID": "about.html#metas",
@@ -102,6 +95,55 @@
     "href": "about.html#section",
     "title": "Vitória Sesana",
     "section": "",
+    "text": "Contato"
+  },
+  {
+    "objectID": "aba_posts/index.html",
+    "href": "aba_posts/index.html",
+    "title": "Publicações",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet. Aut culpa voluptatem qui recusandae nihil qui assumenda omnis. Et blanditiis neque et blanditiis labore qui velit voluptas sed dicta itaque ex temporibus aliquid ut ipsam voluptas. Ut quia deleniti a aperiam dolorem vel quae perferendis est eaque labore.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSingle-Cell RNA Sequencing Reveals Novel Cellular States During Wound Healing\n\n\n\nresearch\n\n\nconferences\n\n\n\nOur lab used single-cell RNA sequencing (scRNA-seq) to study wound healing, analyzing 50,000 cells across multiple time points. This revealed novel cellular states and…\n\n\n\nVitória Sesana\n\n\n1/11/25\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "aba_posts/post_01/index.html",
+    "href": "aba_posts/post_01/index.html",
+    "title": "Single-Cell RNA Sequencing Reveals Novel Cellular States During Wound Healing",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet. Eum sunt consequuntur ut magnam Quis aut placeat dolor sed voluptas porro? Vel quos nobis At aspernatur corporis ut reprehenderit modi in vitae rerum ut nemo natus ea excepturi internos et corporis tenetur. Non laboriosam blanditiis eos vero necessitatibus qui autem omnis aut nobis iure nam exercitationem dolor.\nEst iusto quos aut dolore soluta non dolorem quos. Ea eveniet fuga ex adipisci impedit et nesciunt quisquam et numquam dolores ab debitis quaerat qui repellendus voluptatem. Vel velit beatae et aliquam iusto qui quae rerum qui tenetur minima nam saepe vitae est sunt architecto. Et quia aliquam a nulla ratione eos vero dolores qui facere sunt et dolor repudiandae sit galisum aliquid ut impedit debitis."
+  },
+  {
+    "objectID": "aba_posts/post_01/index.html#título-1",
+    "href": "aba_posts/post_01/index.html#título-1",
+    "title": "Single-Cell RNA Sequencing Reveals Novel Cellular States During Wound Healing",
+    "section": "Título 1",
+    "text": "Título 1\n\nSubtítulo\nQui voluptates optio et minima quibusdam id earum repudiandae et ducimus dolor est eveniet quas ut nihil itaque. Ut iste maiores ad beatae sequi qui perspiciatis doloribus qui dolorum nemo et voluptatibus voluptatum ut facere consequatur! Sed beatae quae est accusamus quaerat et quia modi 33 beatae animi est assumenda exercitationem eum harum omnis rem tenetur perferendis. Vel incidunt voluptatem qui pariatur enim cum nihil repellat et iure voluptatem qui omnis amet aut quasi voluptatem est dignissimos nihil.\nThis is a post with executable code.\n\n1 + 1\n\n[1] 2\n\n\n\nhist(mtcars$cyl)"
+  },
+  {
+    "objectID": "contato.html",
+    "href": "contato.html",
+    "title": "contato",
+    "section": "",
+    "text": "e-mail\nlinkedin\ntext: Lattes href: http://lattes.cnpq.br/0581379603381022"
+  },
+  {
+    "objectID": "about.html#educação-1",
+    "href": "about.html#educação-1",
+    "title": "Vitória Sesana",
+    "section": "Educação",
+    "text": "Educação"
+  },
+  {
+    "objectID": "about.html#experiências-1",
+    "href": "about.html#experiências-1",
+    "title": "Vitória Sesana",
+    "section": "Experiências",
+    "text": "Experiências"
+  },
+  {
+    "objectID": "about.html#contato",
+    "href": "about.html#contato",
+    "title": "Vitória Sesana",
+    "section": "Contato",
     "text": "Contato"
   }
 ]

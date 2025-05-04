@@ -6,3 +6,5 @@ e-mail
 
 linkedin
 
+text: Lattes
+href: http://lattes.cnpq.br/0581379603381022

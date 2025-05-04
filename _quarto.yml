@@ -8,10 +8,10 @@ website:
     logo: imagens/lavender.png
     title: "Vitória Sesana"
     background: "#AD96DC"
-    foreground: "white"   
+    foreground: "white" 
     right:
-      - text: Home
-        href: index.qmd
+      # - text: Home
+      #   href: index.qmd
       - text: Publicações
         href: aba_posts/index.qmd
       - text: Sobre
@@ -19,14 +19,13 @@ website:
   page-footer: 
     # background: "#AD96DC"
     # foreground: "white" 
-    left: "© 2024 VITÓRIA SESANA, TODOS OS DIREITOS RESERVADOS" 
+    left: "© 2025" 
     right: 
       - icon: github
         href: https://github.com/vitoria-sesana
       - icon: linkedin
         href: https://www.linkedin.com/in/vit%C3%B3ria-sesana-836035174/
-      - text: Lattes
-        href: http://lattes.cnpq.br/0581379603381022
+      - text: vitoria.nj.sesana@gmail.com
         # colocar tbm link do repositorio do website
 format:
   html:

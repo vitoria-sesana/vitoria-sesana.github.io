@@ -26,8 +26,8 @@ format: html
 
 <center> 
 <br>
-<h1 class="heading-home">Lorem Ipsum</h1>
-<span style = "font-style: italic"> Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit... </span>
+<h1 class="heading-home">Seja bem-vindo!</h1>
+<span style = "font-style: italic"> Sou estudante de Estatística na UFES. Este é meu blog pessoal que usarei para discutir tópicos teóricos e práticos da área de estatísticas, ferramentas computacionais. </span>
 <br>
 <br>
 
