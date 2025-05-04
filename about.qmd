@@ -1,0 +1,52 @@
+---
+title: "Vitória Sesana"
+image: profile.jpg
+image-shape: round
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/vitoria-sesana
+---
+
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+
+## Education
+
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
+
+Macalester College | St. Paul, MN
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
+
+
+## Trajetória
+
+## Educação
+
+## Experiências
+
+## Interesses
+
+## Ferramentas
+
+## Áreas de interesse
+
+## Metas
+
+## Currículo em pdf
+
+## Assossiações/instituições
+
+Constat, SETADES, PIBIC, Labcidades, Rladies, Rbras, Mental PRO, Observatorio de Capixaba Economia Criativa
+
+##
+
+Contato

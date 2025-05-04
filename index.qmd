@@ -1,15 +1,54 @@
 ---
 title: ""
+format: html
 ---
 
-HOME/INICIO
+:::{.column-screen}
+:::{.column-screen-inset}
+:::{.home-column-image .col-right}
+<div style="position: relative; width: 100vw; height: 400px; overflow: hidden; margin-left: calc(-50vw + 50%);">
+  <img src="imagens/home_lavender.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+  <div style="
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+      font-size: 2em;
+      background-color: rgba(0, 0, 0, 0);
+      padding: 1em;
+      border-radius: 10px;">
+  </div>
+</div>
+:::
 
-VITÓRIA SESANA
-SLOGAN
-UMA FOTO TOP 
+:::{.home-column-text .col-left}
 
-MENU DAS PUBLICAÇÕES
+<center> 
+<br>
+<h1 class="heading-home">Lorem Ipsum</h1>
+<span style = "font-style: italic"> Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit... </span>
+<br>
+<br>
 
-SOBRE MIM
+</center>
+:::
 
-IMAGEM + FRASES
+<!-- :::{.column-screen style="background-color:#AD96DC;"} -->
+<!-- :::{.column-screen-inset} -->
+<!-- :::{.home-column-image .col-left} -->
+
+<!-- <center>  -->
+<!-- <br> -->
+<!-- <h1 class="heading-home">Publicações</h1> -->
+
+<!-- <span style = "font-style: italic">Highlighting research supported by ALA data</span> -->
+
+<!-- <br> -->
+<!-- </center> -->
+
+<!-- ::: -->
+
+
+
+

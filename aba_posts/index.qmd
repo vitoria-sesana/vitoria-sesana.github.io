@@ -1,0 +1,17 @@
+---
+title: "Publicações"
+listing: 
+  contents: "*/index.qmd"
+  type: grid
+  grid-columns: 3
+  grid-item-align: center
+  categories: true
+  sort: date desc
+  date-format: short 
+  feed: true
+---
+
+Lorem ipsum dolor sit amet. Aut culpa voluptatem qui recusandae nihil qui assumenda omnis. Et blanditiis neque et blanditiis labore qui velit voluptas sed dicta itaque ex temporibus aliquid ut ipsam voluptas. Ut quia deleniti a aperiam dolorem vel quae perferendis est eaque labore.
+
+::: {#projects}
+:::

@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./imagens/lavender.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -78,6 +79,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./imagens/lavender.png" alt="" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Vitória Sesana</span>
     </a>
@@ -89,12 +93,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./abas/about.html"> 
-<span class="menu-text">Sobre</span></a>
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./abas/posts/index.html"> 
+    <a class="nav-link" href="./aba_posts/index.html"> 
 <span class="menu-text">Publicações</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">Sobre</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -111,18 +119,53 @@ ul.task-list li input[type="checkbox"] {
         
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 
 
 
-<p>HOME/INICIO</p>
-<p>VITÓRIA SESANA SLOGAN UMA FOTO TOP</p>
-<p>MENU DAS PUBLICAÇÕES</p>
-<p>SOBRE MIM</p>
-<p>IMAGEM + FRASES</p>
+<div class="column-screen page-columns page-full">
+<div class="column-screen-inset">
+<div class="home-column-image col-right">
+<div style="position: relative; width: 100vw; height: 400px; overflow: hidden; margin-left: calc(-50vw + 50%);">
+<img src="imagens/home_lavender.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+<div style="
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+      font-size: 2em;
+      background-color: rgba(0, 0, 0, 0);
+      padding: 1em;
+      border-radius: 10px;">
+
+</div>
+</div>
+</div>
+<div class="home-column-text col-left">
+<center>
+<br>
+<h1 class="heading-home">
+Lorem Ipsum
+</h1>
+<p><span style="font-style: italic"> Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit… </span> <br> <br></p>
+</center>
+</div>
+<!-- :::{.column-screen style="background-color:#AD96DC;"} -->
+<!-- :::{.column-screen-inset} -->
+<!-- :::{.home-column-image .col-left} -->
+<!-- <center>  -->
+<!-- <br> -->
+<!-- <h1 class="heading-home">Publicações</h1> -->
+<!-- <span style = "font-style: italic">Highlighting research supported by ALA data</span> -->
+<!-- <br> -->
+<!-- </center> -->
+<!-- ::: -->
 
 
+</div>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -2,22 +2,106 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Vitória Sesana",
+    "title": "\nLorem Ipsum\n",
     "section": "",
-    "text": "HOME/INICIO\nVITÓRIA SESANA SLOGAN UMA FOTO TOP\nMENU DAS PUBLICAÇÕES\nSOBRE MIM\nIMAGEM + FRASES"
+    "text": "Lorem Ipsum\n\n Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit…"
   },
   {
-    "objectID": "abas/about.html",
-    "href": "abas/about.html",
-    "title": "Sobre",
-    "section": "",
-    "text": "SOBRE MIM\nTrajetória\nEducação\nExperiências\nInteresses\nFerramentas\nÁreas de interesse\nMetas\nCurrículo em pdf\nAssossiações/instituições\nContato\nConstat, SETADES, PIBIC, Labcidades, Rladies, Rbras, Mental PRO, Observatorio de Capixaba Economia Criativa"
-  },
-  {
-    "objectID": "abas/posts/index.html",
-    "href": "abas/posts/index.html",
+    "objectID": "aba_posts/index.html",
+    "href": "aba_posts/index.html",
     "title": "Publicações",
     "section": "",
-    "text": "meus posts\ntrabalhos publicados\ndoi IC\nboletim anual\ndashboards\ncalcula IDF"
+    "text": "Lorem ipsum dolor sit amet. Aut culpa voluptatem qui recusandae nihil qui assumenda omnis. Et blanditiis neque et blanditiis labore qui velit voluptas sed dicta itaque ex temporibus aliquid ut ipsam voluptas. Ut quia deleniti a aperiam dolorem vel quae perferendis est eaque labore.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSingle-Cell RNA Sequencing Reveals Novel Cellular States During Wound Healing\n\n\n\nresearch\n\n\nconferences\n\n\n\nOur lab used single-cell RNA sequencing (scRNA-seq) to study wound healing, analyzing 50,000 cells across multiple time points. This revealed novel cellular states and…\n\n\n\nVitória Sesana\n\n\n1/11/25\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Vitória Sesana",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Vitória Sesana",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Vitória Sesana",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "about.html#trajetória",
+    "href": "about.html#trajetória",
+    "title": "Vitória Sesana",
+    "section": "Trajetória",
+    "text": "Trajetória"
+  },
+  {
+    "objectID": "about.html#educação",
+    "href": "about.html#educação",
+    "title": "Vitória Sesana",
+    "section": "Educação",
+    "text": "Educação"
+  },
+  {
+    "objectID": "about.html#experiências",
+    "href": "about.html#experiências",
+    "title": "Vitória Sesana",
+    "section": "Experiências",
+    "text": "Experiências"
+  },
+  {
+    "objectID": "about.html#interesses",
+    "href": "about.html#interesses",
+    "title": "Vitória Sesana",
+    "section": "Interesses",
+    "text": "Interesses"
+  },
+  {
+    "objectID": "about.html#ferramentas",
+    "href": "about.html#ferramentas",
+    "title": "Vitória Sesana",
+    "section": "Ferramentas",
+    "text": "Ferramentas"
+  },
+  {
+    "objectID": "about.html#áreas-de-interesse",
+    "href": "about.html#áreas-de-interesse",
+    "title": "Vitória Sesana",
+    "section": "Áreas de interesse",
+    "text": "Áreas de interesse"
+  },
+  {
+    "objectID": "about.html#metas",
+    "href": "about.html#metas",
+    "title": "Vitória Sesana",
+    "section": "Metas",
+    "text": "Metas"
+  },
+  {
+    "objectID": "about.html#currículo-em-pdf",
+    "href": "about.html#currículo-em-pdf",
+    "title": "Vitória Sesana",
+    "section": "Currículo em pdf",
+    "text": "Currículo em pdf"
+  },
+  {
+    "objectID": "about.html#assossiaçõesinstituições",
+    "href": "about.html#assossiaçõesinstituições",
+    "title": "Vitória Sesana",
+    "section": "Assossiações/instituições",
+    "text": "Assossiações/instituições\nConstat, SETADES, PIBIC, Labcidades, Rladies, Rbras, Mental PRO, Observatorio de Capixaba Economia Criativa"
+  },
+  {
+    "objectID": "about.html#section",
+    "href": "about.html#section",
+    "title": "Vitória Sesana",
+    "section": "",
+    "text": "Contato"
   }
 ]

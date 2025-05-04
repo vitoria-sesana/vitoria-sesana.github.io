@@ -1,0 +1,30 @@
+---
+title: Single-Cell RNA Sequencing Reveals Novel Cellular States During Wound Healing
+image: imagem_01.jpg
+image-alt: Magnified cells
+description: |
+  Our lab used single-cell RNA sequencing (scRNA-seq) to study wound healing, analyzing 50,000 cells across multiple time points. This revealed novel cellular states and transition pathways with potential applications in regenerative medicine.
+author: Vitória Sesana
+date: 2025-01-11
+categories: [research, conferences]
+---
+
+Lorem ipsum dolor sit amet. Eum sunt consequuntur ut magnam Quis aut placeat dolor sed voluptas porro? Vel quos nobis At aspernatur corporis ut reprehenderit modi in vitae rerum ut nemo natus ea excepturi internos et corporis tenetur. Non laboriosam blanditiis eos vero necessitatibus qui autem omnis aut nobis iure nam exercitationem dolor.
+
+Est iusto quos aut dolore soluta non dolorem quos. Ea eveniet fuga ex adipisci impedit et nesciunt quisquam et numquam dolores ab debitis quaerat qui repellendus voluptatem. Vel velit beatae et aliquam iusto qui quae rerum qui tenetur minima nam saepe vitae est sunt architecto. Et quia aliquam a nulla ratione eos vero dolores qui facere sunt et dolor repudiandae sit galisum aliquid ut impedit debitis.
+
+## Título 1
+
+### Subtítulo
+
+Qui voluptates optio et minima quibusdam id earum repudiandae et ducimus dolor est eveniet quas ut nihil itaque. Ut iste maiores ad beatae sequi qui perspiciatis doloribus qui dolorum nemo et voluptatibus voluptatum ut facere consequatur! Sed beatae quae est accusamus quaerat et quia modi 33 beatae animi est assumenda exercitationem eum harum omnis rem tenetur perferendis. Vel incidunt voluptatem qui pariatur enim cum nihil repellat et iure voluptatem qui omnis amet aut quasi voluptatem est dignissimos nihil.
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
+
+```{r}
+hist(mtcars$cyl)
+```

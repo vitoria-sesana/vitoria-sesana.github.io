@@ -1,12 +1,41 @@
 Home/Inicio (index.qmd)
-
 Publicações ()
-
 Sobre mim 
-
 
 ------------
 
 publicação/post
 
 blog x portifólio
+
+------------------
+
+Na home:
+	uma foto
+	breve descrição sobre mim
+	carrossel com as publicações mais recentes
+	currículo pdf
+
+Ter menu em "Sobre mim"
+
+Publicações:
+	ter tags
+	ter filtro 
+	ter possibilidade de comentários
+
+
+Contato:
+	LinkedIn
+	email
+---------
+
+website:
+	google analytics
+	cookies 
+
+opção claro/escuro
+
+
+
+
+	

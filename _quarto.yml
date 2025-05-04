@@ -3,14 +3,19 @@ project:
 
 website:
   title: "Vitória Sesana"
+  favicon: imagens/lavender.png
   navbar:
+    logo: imagens/lavender.png
+    title: "Vitória Sesana"
     background: "#AD96DC"
     foreground: "white"   
     right:
-      - text: Sobre
-        href: abas/about.qmd
+      - text: Home
+        href: index.qmd
       - text: Publicações
-        href: abas/posts/index.qmd
+        href: aba_posts/index.qmd
+      - text: Sobre
+        href: about.qmd
   page-footer: 
     # background: "#AD96DC"
     # foreground: "white" 
