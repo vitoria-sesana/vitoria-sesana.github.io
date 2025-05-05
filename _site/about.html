@@ -93,7 +93,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./aba_posts/index.html"> 
-<span class="menu-text">Publicações</span></a>
+<span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
@@ -118,10 +118,9 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#experiências" id="toc-experiências" class="nav-link" data-scroll-target="#experiências">Experiências</a></li>
   <li><a href="#ferramentas" id="toc-ferramentas" class="nav-link" data-scroll-target="#ferramentas">Ferramentas</a></li>
   <li><a href="#áreas-de-interesse" id="toc-áreas-de-interesse" class="nav-link" data-scroll-target="#áreas-de-interesse">Áreas de interesse</a></li>
-  <li><a href="#metas" id="toc-metas" class="nav-link" data-scroll-target="#metas">Metas</a></li>
-  <li><a href="#currículo-em-pdf" id="toc-currículo-em-pdf" class="nav-link" data-scroll-target="#currículo-em-pdf">Currículo em pdf</a></li>
   <li><a href="#assossiaçõesinstituições" id="toc-assossiaçõesinstituições" class="nav-link" data-scroll-target="#assossiaçõesinstituições">Assossiações/instituições</a></li>
   <li><a href="#contato" id="toc-contato" class="nav-link" data-scroll-target="#contato">Contato</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
   </ul>
 </nav>
     </div>
@@ -155,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="experiências" class="level2">
 <h2 data-anchor-id="experiências">Experiências</h2>
 <p>Mental PRO | Estagiária em cientista de dados | Novembro 2024 - Atualmente</p>
-<p>Labcidades | Chief Analyst | Abril 2024 - Setembro 2024</p>
+<p>Labcidades | Bolsista de Projeto de Extensão | Abril 2024 - Setembro 2024</p>
 <p>PIBIC | Bolsista de Iniciação Científica | Setembro 2023 - Março 2024</p>
 <p>SETADES | Estagiária em análise de dados | Novembro 2021 - Abril 2023</p>
 <p>Constat Jr.&nbsp;| Assessora de projetos | Dezembro 2020 - Maio 2022</p>
@@ -166,13 +165,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="áreas-de-interesse" class="level2">
 <h2 data-anchor-id="áreas-de-interesse">Áreas de interesse</h2>
-<p>Gestão Pública Inovação Economia Criativa Assistência Social Modelagem Amostragem Estatística Espacial</p>
-</section>
-<section id="metas" class="level2">
-<h2 data-anchor-id="metas">Metas</h2>
-</section>
-<section id="currículo-em-pdf" class="level2">
-<h2 data-anchor-id="currículo-em-pdf">Currículo em pdf</h2>
+<p>Gestão Pública | Inovação | Economia Criativa | Assistência Social | Modelagem | Amostragem | Estatística Espacial</p>
 </section>
 <section id="assossiaçõesinstituições" class="level2">
 <h2 data-anchor-id="assossiaçõesinstituições">Assossiações/instituições</h2>
@@ -180,7 +173,10 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="contato" class="level2">
 <h2 data-anchor-id="contato">Contato</h2>
-<p>vitoria.nj.sesana</p>
+<p>vitoria.nj.sesana@gmail.com</p>
+</section>
+<section id="section" class="level1">
+<h1></h1>
 
 
 </section>
@@ -272,7 +268,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/aa9fc058-c7be-46d5-837b-365a874fc005\.netlify\.app\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

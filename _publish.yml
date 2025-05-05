@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: aa9fc058-c7be-46d5-837b-365a874fc005
+      url: 'https://vitoria-sesana.quarto.pub/vitória-sesana'

@@ -1,5 +1,5 @@
 ---
-title: "Publicações"
+title: "Posts"
 listing: 
   contents: "*/index.qmd"
   type: grid
@@ -11,7 +11,9 @@ listing:
   feed: true
 ---
 
-Lorem ipsum dolor sit amet. Aut culpa voluptatem qui recusandae nihil qui assumenda omnis. Et blanditiis neque et blanditiis labore qui velit voluptas sed dicta itaque ex temporibus aliquid ut ipsam voluptas. Ut quia deleniti a aperiam dolorem vel quae perferendis est eaque labore.
+Tenho interesse em diversas áreas e o grande diferencial da estatística é a possibilidade de aplicar suas metodologias em todas essas áreas.
+
+Nesta seção, irei comentar, discutir e apresentar assuntos referentes à esses tópicos.
 
 ::: {#projects}
 :::

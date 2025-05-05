@@ -10,23 +10,19 @@ about:
       href: https://github.com/vitoria-sesana
 ---
 
-Atualmente estou no meu penúltimo período da graduação em Estatística pela UFES. Além disso, estágio na startup de saúde mental **Mental PRO** e tenho vínculo voluntário com os projetos **R-Ladies Vix** e participo da organização da 69ª edição do **RBras e Seagro**. Recentemente, me tornei membro do **Observatório Capixaba de Economia Criativa**.  
+Atualmente estou no meu penúltimo período da graduação em Estatística pela UFES. Além disso, estágio na startup de saúde mental **Mental PRO** e tenho vínculo voluntário com os projetos **R-Ladies Vix** e participo da organização da 69ª edição do **RBras e Seagro**. Recentemente, me tornei membro do **Observatório Capixaba de Economia Criativa**.
 
 ## Educação
 
-Bacharel em Estatística
-Universidade Federal do Espírito Santo
-2020-Atualmente
+Bacharel em Estatística Universidade Federal do Espírito Santo 2020-Atualmente
 
-Técnico Integrado ao Ensino Médio em Logística 
-Instituto Federal do Espírito Santo
-2016-2018
+Técnico Integrado ao Ensino Médio em Logística Instituto Federal do Espírito Santo 2016-2018
 
 ## Experiências
 
 Mental PRO \| Estagiária em cientista de dados \| Novembro 2024 - Atualmente
 
-Labcidades \| Chief Analyst \| Abril 2024 - Setembro 2024
+Labcidades \| Bolsista de Projeto de Extensão \| Abril 2024 - Setembro 2024
 
 PIBIC \| Bolsista de Iniciação Científica \| Setembro 2023 - Março 2024
 
@@ -35,26 +31,12 @@ SETADES \| Estagiária em análise de dados \| Novembro 2021 - Abril 2023
 Constat Jr. \| Assessora de projetos \| Dezembro 2020 - Maio 2022
 
 ## Ferramentas
-R
-Python
-Google Workspace
-SQL
-GIT
-Power BI
+
+R Python Google Workspace SQL GIT Power BI
 
 ## Áreas de interesse
 
-Gestão Pública
-Inovação
-Economia Criativa
-Assistência Social
-Modelagem 
-Amostragem
-Estatística Espacial
-
-## Metas
-
-## Currículo em pdf
+Gestão Pública \| Inovação \| Economia Criativa \| Assistência Social \| Modelagem \| Amostragem \| Estatística Espacial
 
 ## Assossiações/instituições
 
@@ -62,6 +44,6 @@ Constat, SETADES, PIBIC, Labcidades, Rladies, Rbras, Mental PRO, Observatorio de
 
 ## Contato
 
-vitoria.nj.sesana
+vitoria.nj.sesana@gmail.com
 
-
+#

@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Vitória Sesana"
@@ -12,7 +13,7 @@ website:
     right:
       # - text: Home
       #   href: index.qmd
-      - text: Publicações
+      - text: Posts
         href: aba_posts/index.qmd
       - text: Sobre
         href: about.qmd
