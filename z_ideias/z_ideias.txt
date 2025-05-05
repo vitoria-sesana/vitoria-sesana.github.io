@@ -1,29 +1,53 @@
+Home
+	Vitória Sesana	
+
+	Estatística | Gestão Pública | Dados Transparentes
+	Assistência Social | Saúde Mental | Economia Criativa | Análise de Dados | Amostragem | Estatística Espacial
+
+
 Posts
 	Mini manual de orientações iniciais ao usar o R 
+	Mini manual de sobrevivência do curso de estatística
+			Entendendo o curso de estatística com base na grade curricular da UFES
 	como utilizar o SAS gratuito de estudante
 	principais dados governamentais disponibilizados e como usa-los no R
 	O Planejamento Amostral da PNADc
 	Como podemos fazer uma análise espacial
-	Entendendo o curso de estatística com base na grade curricular da UFES
+	IGG - iNDICE DE GESTAO GOVERNAMENTAL
+	IDCRAS, IDCREAS e IDF
+	SUAS, SUS e SNE
+	Como é considerado a Economia Criativa
 	Antigos projetos
 		Cálculo do IDF
 		Boletim Anual
-		Pibic
+		Pibic; código doi?
+	Dados do IJSN e outros dados Capixabas
+	Dados capixaba: uma análise de perfil, economia e social, saúde e segurança, trabalho, educação, idh? cultura???
+		Será que esses atributos influenciam numa qualidade de vida melhor???
+	Como saber se o local onde vivo está bom? Quais indicadores utilizar? O PIB, O IDF? Onde Buscar esses dados e como eu, uma cidadã, posso me informar? Principalmente se não tenho experiência em analise de dados, independente da formação (estatísticos, engenheros, economistas....)
+	Abordagens para o uso de dados na gestão pública: seja na gestão e na avaliação de qualidade do serviço público como cidadãos 
+	Dados no ministério público
+	O que tem mais caráter, aquele que esconde a informação ou aquele que mostra o erro e planeja melhorias? 
+	LGPD
 
 Posts backlogin
 	Trabalhos academicos antigos
+		Planejamento
+		Dados Categorizados
 	Competições do kaggle
 	Artigos interessantes
+		modelo de cox e outros artigos mais citados
 	Teorias interessantes
 
 		
 Categorização dos posts
 	iniciante, intermediário ou avançado 
-	teoria, aplicação ou discussão 
+	teoria, aplicação ou discussão/comentários/reflexão 
+	tutorial, manual ou dicas 
 		
 Paines/dashboards
 	Calculo IDF
-	Seminário
+	Seminário de sobrevivencia
 
 Sobre mim
 	Linha do tempo das trajetórias acadêmicas e profissionais

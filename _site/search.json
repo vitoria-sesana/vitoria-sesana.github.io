@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "\nSeja bem-vindo!\n",
+    "title": "\nVitória Sesana\n",
     "section": "",
-    "text": "Seja bem-vindo!\n\n Sou estudante de Estatística na UFES. Este é meu blog pessoal que usarei para discutir tópicos teóricos e práticos da área de estatísticas, ferramentas computacionais."
+    "text": "Vitória Sesana\n\nEstatística | Gestão Pública | Análise de Dados"
   },
   {
     "objectID": "about.html",
@@ -14,46 +14,18 @@
     "text": "Atualmente estou no meu penúltimo período da graduação em Estatística pela UFES. Além disso, estágio na startup de saúde mental Mental PRO e tenho vínculo voluntário com os projetos R-Ladies Vix e participo da organização da 69ª edição do RBras e Seagro. Recentemente, me tornei membro do Observatório Capixaba de Economia Criativa."
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Vitória Sesana",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Vitória Sesana",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
-  },
-  {
-    "objectID": "about.html#trajetória",
-    "href": "about.html#trajetória",
-    "title": "Vitória Sesana",
-    "section": "Trajetória",
-    "text": "Trajetória"
-  },
-  {
     "objectID": "about.html#educação",
     "href": "about.html#educação",
     "title": "Vitória Sesana",
     "section": "Educação",
-    "text": "Educação\nBacharel em Estatítisca Universidade Federal do Espírito Santo 2020-Atualmente\nTécnico Integrado ao Ensino Médio em Lógistica Instituto Federal do Espírito Santo 2016-2018"
+    "text": "Educação\nBacharel em Estatística Universidade Federal do Espírito Santo 2020-Atualmente\nTécnico Integrado ao Ensino Médio em Logística Instituto Federal do Espírito Santo 2016-2018"
   },
   {
     "objectID": "about.html#experiências",
     "href": "about.html#experiências",
     "title": "Vitória Sesana",
     "section": "Experiências",
-    "text": "Experiências\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
-  },
-  {
-    "objectID": "about.html#interesses",
-    "href": "about.html#interesses",
-    "title": "Vitória Sesana",
-    "section": "Interesses",
-    "text": "Interesses"
+    "text": "Experiências\nMental PRO | Estagiária em cientista de dados | Novembro 2024 - Atualmente\nLabcidades | Chief Analyst | Abril 2024 - Setembro 2024\nPIBIC | Bolsista de Iniciação Científica | Setembro 2023 - Março 2024\nSETADES | Estagiária em análise de dados | Novembro 2021 - Abril 2023\nConstat Jr. | Assessora de projetos | Dezembro 2020 - Maio 2022"
   },
   {
     "objectID": "about.html#ferramentas",
@@ -67,7 +39,7 @@
     "href": "about.html#áreas-de-interesse",
     "title": "Vitória Sesana",
     "section": "Áreas de interesse",
-    "text": "Áreas de interesse\nGestão Pública Inovação Economia Criativa Assistência Social\nModelagem Amostragem Estatística Espacial"
+    "text": "Áreas de interesse\nGestão Pública Inovação Economia Criativa Assistência Social Modelagem Amostragem Estatística Espacial"
   },
   {
     "objectID": "about.html#metas",
@@ -91,11 +63,11 @@
     "text": "Assossiações/instituições\nConstat, SETADES, PIBIC, Labcidades, Rladies, Rbras, Mental PRO, Observatorio de Capixaba Economia Criativa"
   },
   {
-    "objectID": "about.html#section",
-    "href": "about.html#section",
+    "objectID": "about.html#contato",
+    "href": "about.html#contato",
     "title": "Vitória Sesana",
-    "section": "",
-    "text": "Contato"
+    "section": "Contato",
+    "text": "Contato\nvitoria.nj.sesana"
   },
   {
     "objectID": "aba_posts/index.html",
@@ -124,26 +96,5 @@
     "title": "contato",
     "section": "",
     "text": "e-mail\nlinkedin\ntext: Lattes href: http://lattes.cnpq.br/0581379603381022"
-  },
-  {
-    "objectID": "about.html#educação-1",
-    "href": "about.html#educação-1",
-    "title": "Vitória Sesana",
-    "section": "Educação",
-    "text": "Educação"
-  },
-  {
-    "objectID": "about.html#experiências-1",
-    "href": "about.html#experiências-1",
-    "title": "Vitória Sesana",
-    "section": "Experiências",
-    "text": "Experiências"
-  },
-  {
-    "objectID": "about.html#contato",
-    "href": "about.html#contato",
-    "title": "Vitória Sesana",
-    "section": "Contato",
-    "text": "Contato"
   }
 ]

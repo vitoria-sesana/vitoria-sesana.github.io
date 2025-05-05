@@ -17,8 +17,8 @@ website:
       - text: Sobre
         href: about.qmd
   page-footer: 
-    # background: "#AD96DC"
-    # foreground: "white" 
+    background: "#AD96DC"
+    foreground: "white"
     left: "© 2025" 
     right: 
       - icon: github

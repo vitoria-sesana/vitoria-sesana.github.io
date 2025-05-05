@@ -1,54 +1,53 @@
 ---
-title: ""
 format: html
 ---
 
-:::{.column-screen}
-:::{.column-screen-inset}
-:::{.home-column-image .col-right}
-<div style="position: relative; width: 100vw; height: 400px; overflow: hidden; margin-left: calc(-50vw + 50%);">
-  <img src="imagens/home_lavender.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-  <div style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      color: white;
-      font-size: 2em;
-      background-color: rgba(0, 0, 0, 0);
-      padding: 1em;
-      border-radius: 10px;">
-  </div>
-</div>
-:::
+<style>
+  body {
+  background-image: url("imagens/home_lavender2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+</style>
 
-:::{.home-column-text .col-left}
 
-<center> 
-<br>
-<h1 class="heading-home">Seja bem-vindo!</h1>
-<span style = "font-style: italic"> Sou estudante de Estatística na UFES. Este é meu blog pessoal que usarei para discutir tópicos teóricos e práticos da área de estatísticas, ferramentas computacionais. </span>
-<br>
-<br>
+<h1 style="color: white;">Vitória Sesana</h1>
 
-</center>
-:::
+Estatística | Gestão Pública | Análise de Dados
 
-<!-- :::{.column-screen style="background-color:#AD96DC;"} -->
-<!-- :::{.column-screen-inset} -->
-<!-- :::{.home-column-image .col-left} -->
 
-<!-- <center>  -->
-<!-- <br> -->
-<!-- <h1 class="heading-home">Publicações</h1> -->
-
-<!-- <span style = "font-style: italic">Highlighting research supported by ALA data</span> -->
-
-<!-- <br> -->
-<!-- </center> -->
-
+<!-- :::{.hero-container} -->
+<!-- :::{.hero-image} -->
+<!--   <h1 style="color: white;">Bem-vinda à minha página</h1> -->
 <!-- ::: -->
 
+<!-- :::{.column-screen} -->
+<!-- :::{.column-screen-inset} -->
+<!-- :::{.home-column-image .col-right} -->
+<!-- <div style="position: relative; width: 100vw; height: 400px; overflow: hidden; margin-left: calc(-50vw + 50%);"> -->
+<!--   <img src="imagens/home_lavender.jpg" style="width: 100%; height: 100%; object-fit: cover;"> -->
+<!--   <div style=" -->
+<!--       position: absolute; -->
+<!--       top: 50%; -->
+<!--       left: 50%; -->
+<!--       transform: translate(-50%, -50%); -->
+<!--       color: white; -->
+<!--       font-size: 2em; -->
+<!--       background-color: rgba(0, 0, 0, 0); -->
+<!--       padding: 1em; -->
+<!--       border-radius: 10px;"> -->
+<!--   </div> -->
+<!-- </div> -->
+<!-- ::: -->
 
+<!-- :::{.home-column-text .col-left} -->
+<!-- <center>  -->
+<!-- <br> -->
+<!-- <h1 class="heading-home"> Vitória Sesana </h1> -->
+<!-- <span style = "font-style: italic"> 	Estatística | Gestão Pública | Análise de Dados </span> -->
+<!-- <br> -->
+<!-- <br> -->
 
-
+<!-- </center> -->
+<!-- ::: -->
